@@ -1,0 +1,11 @@
+Steps to test
+
+
+1. Write a bash file to increase CPU utilization
+
+#!/bin/bash
+while true; do
+    :
+done
+
+
